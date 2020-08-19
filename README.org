@@ -2,9 +2,6 @@
 <script>console.log('Yay 🎉')</script>
 #+END_SRC
 
-Also see [[http://resume.github.io/?piotr-yuxuan][resume.github.io]].
-In case you'd like to get in touch, go on Twitter.
-
 - Algorithms and datastructures calisthenics (from Sept 2019) [[https://github.com/piotr-yuxuan/algo-calisthenics][link]]
 - Generative testing from org.apache.avro.Schema (from Feb 2019) [[https://github.com/piotr-yuxuan/dove][link]]
 - Nabab : Describe how data flow between core.async channels with a pinch of syntactic sugar (from Oct 2018) [[https://github.com/piotr-yuxuan/nabab][link]]
@@ -15,3 +12,6 @@ In case you'd like to get in touch, go on Twitter.
 - Open street map cartography (from March 2016)
 - Analysis of chess games (from Feb 2016) [[https://github.com/piotr-yuxuan/PoC][link]]
 - Sinogram graph crawling (from Jul 2015) [[https://github.com/piotr-yuxuan/chinese-huawen][link]]
+
+Also see [[http://resume.github.io/?piotr-yuxuan][resume.github.io]].
+In case you'd like to get in touch, go on [[https://twitter.com/PiotrYuxuan][Twitter]].
