@@ -1,6 +1,6 @@
 #+BEGIN_SRC clojure
-[:html
-  [:body
+[:html {}
+  [:body {}
     [:h1.fancy#greetings "Hello, world!"]
     [:script #(println 'Yay 🎉')]]]
 #+END_SRC
