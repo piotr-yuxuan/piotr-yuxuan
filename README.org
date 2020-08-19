@@ -1,5 +1,5 @@
 #+BEGIN_SRC clojure
-[:script (println 'Yay 🎉')]
+[:script #(println 'Yay 🎉')]
 #+END_SRC
 
 - Algorithms and datastructures calisthenics (from Sept 2019) [[https://github.com/piotr-yuxuan/algo-calisthenics][link]]
