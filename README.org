@@ -7,7 +7,7 @@
 
 - Algorithms and datastructures calisthenics (from Sept 2019) [[https://github.com/piotr-yuxuan/algo-calisthenics][link]]
 - Generative testing from org.apache.avro.Schema (from Feb 2019) [[https://github.com/piotr-yuxuan/dove][link]]
-- Nabab : Describe how data flow between core.async channels with a pinch of syntactic sugar (from Oct 2018) [[https://github.com/piotr-yuxuan/nabab][link]]
+- Nabab: describe how data flow between core.async channels with a pinch of syntactic sugar (from Oct 2018) [[https://github.com/piotr-yuxuan/nabab][link]]
 - Next Phone (from Aug 2018) [[https://gitlab.com/next-phone/next-phone.gitlab.io][link]]
 - Environment configuration (from Mar 2018) [[https://github.com/piotr-yuxuan/public-environment-configuration][link]]
 - Illegal activity (from Aug 2017) [[https://github.com/piotr-yuxuan/illegal-activity][link]]
