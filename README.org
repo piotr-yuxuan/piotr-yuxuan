@@ -1,5 +1,5 @@
-#+BEGIN_SRC javascript
-<script>console.log('Yay 🎉')</script>
+#+BEGIN_SRC clojure
+[:script (println 'Yay 🎉')]
 #+END_SRC
 
 - Algorithms and datastructures calisthenics (from Sept 2019) [[https://github.com/piotr-yuxuan/algo-calisthenics][link]]
@@ -12,6 +12,3 @@
 - Open street map cartography (from March 2016)
 - Analysis of chess games (from Feb 2016) [[https://github.com/piotr-yuxuan/PoC][link]]
 - Sinogram graph crawling (from Jul 2015) [[https://github.com/piotr-yuxuan/chinese-huawen][link]]
-
-Also see [[http://resume.github.io/?piotr-yuxuan][resume.github.io]].
-In case you'd like to get in touch, go on [[https://twitter.com/PiotrYuxuan][Twitter]].
