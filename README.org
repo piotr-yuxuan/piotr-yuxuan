@@ -1,3 +1,176 @@
 #+BEGIN_SRC javascript
 <script>console.log('Yay 🎉')</script>
 #+END_SRC
+
+#+TITLE:Minimalistic portfolio and résumé
+
+Also see [[http://resume.github.io/?piotr-yuxuan][resume.github.io]].
+In case you'd like to get in touch, go on Twitter.
+
+* Algorithms and datastructures calisthenics (from Sept 2019)
+
+https://github.com/piotr-yuxuan/algo-calisthenics
+
+This is where I would put some of my training exercises when the
+problems looks peculiarly fun, and interesting to solve. Algorithmic
+questions asked in coding interviews will probably be similar to code
+here.
+
+Nevertheless I shall add I'm always a bit disappointed by coding
+interviews where the job seeker is only given some riddles to solve
+quickly. It's a microscopic part of amy daily engineering work which
+ought to involve reasoning about the long-term technical vision to
+serve the business of the company, being cognizant about the platform
+observability, resilience, and robustness, and friendly rubbing
+shoulders with other team mates.
+
+* Generative testing from org.apache.avro.Schema (from Feb 2019)
+
+https://github.com/piotr-yuxuan/dove
+
+Apache Avro is a way to serialize data in binary according to some
+schema which describes the data shapes from (nested) primitive
+types. I figured out it would be pretty useful to generate random
+sample of Avro messages corresponding to a schema. Using clojure.spec,
+test.check, and some Java interop, code turns out to be pretty
+concise.
+
+This is an example of emerging design, exemplifying Eisenhower
+sentence: « plans are useless, but planning is indispensable ». I had
+a strong idea of what I need, I knew Clojure protocol would a suitable
+implementation choice, but I started from a white sheet and let the
+code click flow itself in the simplest way while I iteratively added
+new features and constraints.
+
+Not the whole Apache Avro spec is implemented but I aim at making this
+side project useful for my main employer usecase.
+
+* Nabab : Describe how data flow between core.async channels with a pinch of syntactic sugar (from Oct 2018)
+
+https://github.com/piotr-yuxuan/nabab
+
+- Early example of emerging design with a focus on simplicity and
+  decomplection. I chose name Nabab in order to keep remembering me I
+  don't want an abstraction above core.async, merely a side tooling.
+- Example of litterate programming with Emacs.
+- Inspiration from this project come from Prismatic plumbing graph,
+  and timely dataflow.
+
+* Next Phone (from Aug 2018)
+
+Older [[https://github.com/piotr-yuxuan/choose-a-new-phone][source]] and [[https://piotr-yuxuan.github.io/choose-a-new-phone][website]] hosted on GitHub, more recent [[https://gitlab.com/next-phone/next-phone.gitlab.io][source]] and
+[[https://next-ph.one][website]] hosted on GitLab
+
+- Strong accent on UX: explain interface behaviour in full, simple
+  language so user can't be lost and understand as much as possible
+  what he's doing.
+- For the Greater Cause ;-) try to be useful for LineageOS, a floss
+  Android
+- Host, deploy from GitLab with GitLab CI
+- Clojure, core.async, dataflow programming (something akin
+  timely-dataflow in Rust), lein figwheel then shadow-cljs, React
+  16.1, Material UI
+- Configure DNS, domain, deployment pipeline, and everything all from
+  the ground up.
+
+* Environment configuration (from Mar 2018)
+
+https://github.com/piotr-yuxuan/public-environment-configuration
+
+Get a reproductible and declarative configuration of the programs I
+use for my daily life and document their use.
+
+It's quite clear that any sharing of personal dot files contains a
+risk of leaking secrets or confidential data. To mitigate this risk
+I've copied a private repo, deleted its history, then committed a
+carefully current state. Obviouly it's pretty outdated now and I don't
+plan to update the public version any soon.
+
+Hint: this repository makes heavy use of Emacs litterate programming
+capabilities (with org-mode and babel). Hence, please forgive broken
+links in the README. They would perfectly work when read in Emacs, but
+GitHub org-mode parser can't handle them properly.
+
+* PE2C, young three-person company website (from Mar 2018)
+
+https://github.com/pe2c/pe2c.github.io
+
+Corporate showcase website for a young, local three-person company.
+
+I tried my best to stick to the precise ideas the stakeholders had
+about design ^^ I'm here to serve them, not to change their minds, so
+I complied to their wishes. However, as for classified matter, I do
+endorse neither reject any material about this site.
+
+* Le mille pattes faisait un mille pièces (Oct 2017)
+
+https://piotr-yuxuan.github.io/1111101000-pieces/index.html
+
+(The centipede was making a hundred-piece puzzle)
+
+Let's be honnest and acknowledge it's not an very interesting project
+from a technical viewpoint. I worked with a friend of mine with is an
+artist. He was interested in studying the relation of human vision to
+disorder.
+
+* Illegal activity (from Aug 2017)
+
+https://github.com/piotr-yuxuan/illegal-activity
+
+Are you using the same laptop at home and at work? if you're company
+policies forbid usage of torrent software (even for legit, sharing
+reasons), how do you make sure you'll never be caught /by design/? At
+least you can prove you tried something to be compliant.
+
+In this project I got a bit more acquainted to macOS
+architecture. Here I use a =plist= file to detect and react to some
+events.
+
+* Polygam: choose as many spouses as you want (from Sep 2016)
+
+https://github.com/piotr-yuxuan/polygam
+
+Learning of logic programming with Clojure library core.logic. Given a
+tree of ancestors / descendants with some elicited vertices, what are
+all vertices that are elicited or descend from an elicited one?
+
+* Open street map cartography (from March 2016)
+
+Creation and integration of a hiking map layers and tracks for a
+1500-km trail throughout France and Spain.
+
+* Analysis of chess games (from Feb 2016)
+
+https://github.com/piotr-yuxuan/PoC
+
+Learning of logic programming with Clojure library core.logic,
+deepening my understanding of this language. PGF notation file parsing
+and discovery available legal moves. However, nothing to be compared
+to Alpha Zero ;-) Here I do nothing against combinatorial explosion so
+you can't actually predict all possible three-move-far positions
+because it would boil the ocean.
+
+* Sinogram graph crawling (from Jul 2015)
+
+https://github.com/piotr-yuxuan/chinese-huawen
+
+- Functional programming with Clojure (JVM-based language)
+- Formal grammars with instaparse.
+
+This project is aimed at analysis of the sinogram set with graph and
+set theories. What’s the best way to learn and remember Chinese
+characters? Most of Chinese handbooks are built in a Western fashion:
+daily-life conversation samples bring new vocabulary and syntax
+examples. This fashion doesn’t take advantage of intrinsic Chinese
+language structure, which makes easier to discover 貴 when knowing yet
+中, 一 and 貝. 貴 stands for expensive or honourable while 貝 refers
+to shell or money. This semantic link lets it easy to remember both of
+them.
+
+The first character 華 of the project name means sinity; 文 stands for
+language. The whole phrase 華文 means Chinese language and is read
+ㄏㄨㄚˊ ㄨㄣˊ or huáwén.
+
+This site has been in some extent redacted in French because part of
+this project is being developped whithin the frame of a school
+project.
