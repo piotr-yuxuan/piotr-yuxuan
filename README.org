@@ -4,14 +4,3 @@
     [:h1.fancy#greetings "Hello, world!"]
     [:script #(println 'Yay 🎉')]]]
 #+END_SRC
-
-- ([[https://github.com/piotr-yuxuan/algo-calisthenics][from 09/2019]]) Algorithms and datastructures calisthenics
-- ([[https://github.com/piotr-yuxuan/dove][from 02/2019]]) Generative testing from org.apache.avro.Schema
-- ([[https://github.com/piotr-yuxuan/nabab][from 10/2018]]) Nabab: describe how data flow between core.async channels with a pinch of syntactic sugar
-- ([[https://gitlab.com/next-phone/next-phone.gitlab.io][from 08/2018]]) Next Phone: choose which new phone you'll buy for LineageOS
-- ([[https://github.com/piotr-yuxuan/public-environment-configuration][from 03/2018]]) Environment configuration
-- ([[https://github.com/piotr-yuxuan/illegal-activity][from 08/2017]]) Avoid illegal activity on you company network
-- ([[https://github.com/piotr-yuxuan/polygam][from 09/2016]]) Polygam: choose as many spouses as you want
-- (from 03/2016) Open street map cartography
-- ([[https://github.com/piotr-yuxuan/PoC][from 02/2016]]) Analysis of chess games
-- ([[https://github.com/piotr-yuxuan/chinese-huawen][from 05/2015]]) Sinogram graph crawling
