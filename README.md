@@ -15,4 +15,4 @@ Some personal projects I've been working on lately:
 - [poor-mans-distributed-cache](https://github.com/piotr-yuxuan/poor-mans-distributed-cache): little poc to use KTable as a distributed cache;
 - [ephemeral-server](https://github.com/piotr-yuxuan/ephemeral-server): A small test server to catch http calls you don't mock;
 
-🔗 More on [piotr-yuxuan/portfolio](https://gist.github.com/piotr-yuxuan/4a71ca1dc3c98e8572901c88b031b932)
+🔗 More on [piotr-yuxuan/portfolio](https://gist.github.com/piotr-yuxuan/4a71ca1dc3c98e8572901c88b031b932).
