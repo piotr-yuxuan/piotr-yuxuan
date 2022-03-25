@@ -5,8 +5,6 @@
     [:script #(println "Yay 🎉")]]]
 ```
 
-Some personal projects I've been working on lately:
-
 - ![Last commit](https://img.shields.io/github/last-commit/piotr-yuxuan/closeable-map)
   ![Clojars downloads](https://img.shields.io/clojars/dt/piotr-yuxuan/closeable-map)
   [closeable-map](https://github.com/piotr-yuxuan/closeable-map): State management with a `java.io.Closeable` Clojure map
