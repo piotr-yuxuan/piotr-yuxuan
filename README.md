@@ -14,7 +14,7 @@
 - [![Clojars downloads](https://img.shields.io/clojars/dt/dove)
    dove](https://github.com/piotr-yuxuan/dove): Infer Clojure specs and generators from any Avro specific schema class
 - [![Clojars downloads](https://img.shields.io/clojars/dt/com.github.piotr-yuxuan/walter-ci)
-   walter-ci](https://github.com/piotr-yuxuan/walter-ci): ✨ GitHub Action-based automation for my personal projects (wip)
+   walter-ci](https://github.com/piotr-yuxuan/walter-ci): ✨ GitHub Action-based automation for my personal projects
 - [![Clojars downloads](https://img.shields.io/clojars/dt/piotr-yuxuan/ephemeral-server)
    ephemeral-server](https://github.com/piotr-yuxuan/ephemeral-server): A small test server to catch http calls you don't mock
 - [poor-mans-distributed-cache](https://github.com/piotr-yuxuan/poor-mans-distributed-cache): little poc to use KTable as a distributed cache
