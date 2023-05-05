@@ -1,3 +1,5 @@
+🔗 [Portfolio](https://gist.github.com/piotr-yuxuan/4a71ca1dc3c98e8572901c88b031b932).
+
 ``` clj
 [:html {}
   [:body {}
@@ -18,5 +20,3 @@
 - [![Clojars downloads](https://img.shields.io/clojars/dt/piotr-yuxuan/ephemeral-server)
    ephemeral-server](https://github.com/piotr-yuxuan/ephemeral-server): A small test server to catch http calls you don't mock
 - [poor-mans-distributed-cache](https://github.com/piotr-yuxuan/poor-mans-distributed-cache): little poc to use KTable as a distributed cache
-
-🔗 More on [piotr-yuxuan/portfolio](https://gist.github.com/piotr-yuxuan/4a71ca1dc3c98e8572901c88b031b932).
