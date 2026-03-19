@@ -7,7 +7,8 @@ See my 🔗 [portfolio](https://gist.github.com/piotr-yuxuan/4a71ca1dc3c98e85729
     [:script #(println "Yay 🎉")]]]
 ```
 
-- [![PyPI Downloads](https://img.shields.io/pypi/dm/cte2dbt) cte2dbt](https://github.com/piotr-yuxuan/cte2dbt): ✨ Extract CTE from a large SQL query and split them iteratively into dbt models
+- [public-environment-configuration](https://github.com/public-environment-configuration): ✨ Declarative configuration for my personal and work computers.
+- [![PyPI Downloads](https://img.shields.io/pypi/dm/cte2dbt) cte2dbt](https://github.com/piotr-yuxuan/cte2dbt): Extract CTE from a large SQL query and split them iteratively into dbt models
 - [![Clojars downloads](https://img.shields.io/clojars/dt/piotr-yuxuan/closeable-map)
    closeable-map](https://github.com/piotr-yuxuan/closeable-map): State management with a `java.io.Closeable` Clojure map
 - [![Clojars downloads](https://img.shields.io/clojars/dt/com.github.piotr-yuxuan/malli-cli)
