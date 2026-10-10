@@ -1,5 +1,3 @@
-See my 🔗 [portfolio](https://gist.github.com/piotr-yuxuan/4a71ca1dc3c98e8572901c88b031b932).
-
 ``` clj
 [:html {}
   [:body {}
