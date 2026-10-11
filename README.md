@@ -5,7 +5,7 @@
     [:script #(println "Yay 🎉")]]]
 ```
 
-Formerly data, JVM, and Clojure; now Python and AI engineering; experience with GCP and mostly AWS.
+Started with data, JVM, and Clojure; then expanded to Python and AI engineering; experience with GCP and mostly AWS.
 
 - [![Last commit](https://img.shields.io/github/last-commit/piotr-yuxuan/hardware.nix)
    hardware.nix](https://github.com/piotr-yuxuan/hardware.nix): ✨ Declarative configuration for my personal and work computers.
