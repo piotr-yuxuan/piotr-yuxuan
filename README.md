@@ -17,7 +17,7 @@ Started with data, JVM, and Clojure; then expanded to Python and AI engineering;
    closeable-map](https://github.com/piotr-yuxuan/closeable-map): ✨ State management with a `java.io.Closeable` Clojure map;
 - [![Clojars downloads](https://img.shields.io/clojars/dt/com.github.piotr-yuxuan/malli-cli)
    malli-cli](https://github.com/piotr-yuxuan/malli-cli): Simple CLI apps from a [metosin/malli](https://github.com/metosin/malli) config schema;
-- [![Clojars downloads](https://img.shields.io/clojars/dt/piotr-yuxuan/slava);
+- [![Clojars downloads](https://img.shields.io/clojars/dt/piotr-yuxuan/slava)
    slava](https://github.com/piotr-yuxuan/slava): Avro codec and serde for Kafka Streams applications;
 - [![Clojars downloads](https://img.shields.io/clojars/dt/dove)
    dove](https://github.com/piotr-yuxuan/dove): Infer Clojure specs and generators from any Avro specific schema class;
