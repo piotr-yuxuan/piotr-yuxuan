@@ -7,10 +7,10 @@
 
 Started with data, JVM, and Clojure; then expanded to Python and AI engineering; experience with GCP and mostly AWS.
 
-
-
 - [![Last commit](https://img.shields.io/github/last-commit/piotr-yuxuan/imprimeur)
    imprimeur](https://github.com/piotr-yuxuan/imprimeur): ✨ Display org-mode, mermaid, Markdown documents with style;
+- [![Last commit](https://img.shields.io/github/last-commit/piotr-yuxuan/kb-mcp)
+   kb-mcp](https://github.com/piotr-yuxuan/kb-mcp): ✨ An extensible knowledge base running offline on your laptop
 - [![Clojars downloads](https://img.shields.io/clojars/dt/piotr-yuxuan/closeable-map)
    closeable-map](https://github.com/piotr-yuxuan/closeable-map): ✨ State management with a `java.io.Closeable` Clojure map;
 - [![Clojars downloads](https://img.shields.io/clojars/dt/com.github.piotr-yuxuan/malli-cli)
